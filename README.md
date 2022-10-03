@@ -1,5 +1,5 @@
 
 
 
-- 🔭 Étudiant à la Normandie Web School 
+Étudiant à la Normandie Web School 
 
