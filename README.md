@@ -1,4 +1,1 @@
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liamcr-s&theme=radical&hide_langs_below=8)
-
-
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Liamcr21)](https://github.com/anuraghazra/github-readme-stats)
